@@ -11,7 +11,7 @@ Classes:
 0 = Cat
 1 = Dog
 
-Dataset Structure:
+# Dataset Structure:
 train/
    cats/
    dogs/
@@ -19,5 +19,5 @@ train/
 test/
    cats/
    dogs/
-Dataset Link:
-/kaggle/input/datasets/tongpython/cat-and-dog
+# Dataset Link:
+/kaggle/input/datasets/tongpython/cat-and-dog   
