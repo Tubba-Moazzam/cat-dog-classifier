@@ -20,4 +20,4 @@ test/
    cats/
    dogs/
 # Dataset Link:
-/kaggle/input/datasets/tongpython/cat-and-dog   
+/kaggle/input/datasets/tongpython/cat-and-dog 
